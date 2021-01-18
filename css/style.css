@@ -1,0 +1,43 @@
+Body{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #191919;
+  
+  text-align: center;
+}
+h2{
+  width: 100% !important;
+}
+
+main{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  font-size: 100px;
+  text-align: center;
+  color: black;
+}
+
+img li {
+  border-radius: 30px;
+  padding-top: 10px ;
+  width: 50% !important;
+  
+}
+
+footer {
+  background-color: #333333;
+  color: whitesmoke;
+  font-size: 13px;
+  margin-top: 200px;
+  height: 100% !important;
+  width: 100% !important;
+}
+

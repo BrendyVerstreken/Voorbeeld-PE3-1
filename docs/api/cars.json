@@ -1,0 +1,102 @@
+{
+    "SuperCars": 
+    [
+        {
+            "imgmerk": "https://upload.wikimedia.org/wikipedia/commons/c/c0/BugattiLogoDileo.png",
+            "name": "Centodieci ",
+            "image": "https://media.autoweek.nl/m/5egy3tabvntv_800.jpg",
+            "merk": "Bugatti",
+            "price": 8000000.85,
+            "pks": 1600,
+            "topSpeed": 430,
+            "nullnaarhonder": 2.4,
+            "Uitvoering": ["wereldrecord","standaard"]
+        },
+        {
+            "imgmerk": "https://wallpaperaccess.com/full/1541352.jpg",
+            "name": "F1",
+            "merk": "McClaren",
+            "price": 3900000.39,
+            "pks": 963,
+            "topSpeed": 430,
+            "nullnaarhonder": 4.5,
+            "image": "https://miro.medium.com/max/700/0*2e67jnpLrKqdad4p",
+            "Uitvoering": ["nitro","all black", "Formule 1"]
+        },
+        {
+            "imgmerk": "https://media2.autokopen.nl/merk/ferrari-logo-240.png",
+            "name": "LaFerrari",
+            "merk": "Ferrari",
+            "price": 2500000.25,
+            "pks": 1050,
+            "topSpeed": 430,
+            "nullnaarhonder": 3.2,
+            "image": "https://ag-spots-2020.o.auroraobjects.eu/2020/07/22/other/2880-1800-crop-ferrari-laferrari-aperta-c386922072020005601_1.jpg",
+            "Uitvoering": ["red","yellow", "traditionale"]
+        }
+    ],
+    "OffRoadCars": 
+    [
+        {
+            "imgmerk": "https://images.autowereld.com/800/land-rover-prijzen-specificaties-202349.jpg",
+            "name": "Range Rover ",
+            "merk": "Land Rover",
+            "price": 95000.01,
+            "pks": 200,
+            "verbruik": 8.2,
+            "image": "https://autorai.nl/wp-content/uploads/2018/03/Range-Rover-SV-Coup%C3%A9-10.jpg",
+            "Uitvoering": ["evoque","standaard", "business"]
+        },
+        {
+            "imgmerk": "https://i.etsystatic.com/16581340/r/il/5cf556/1375940968/il_570xN.1375940968_jpv9.jpg",
+            "name": "G63 ",
+            "merk": "Mercedes",
+            "price": 165000.99,
+            "pks": 585,
+            "verbruik": 11.8,
+            "image": "https://www.mercedes-benz.be/nl_BE/passengercars/mercedes-benz-cars/models/g-class/suv-w463/amg/amg-equipment/_jcr_content/swipeableteaserbox/par/swipeableteaser_1104675555/asset.MQ6.12.20191219153126.jpeg",
+            "Uitvoering": ["AMG", "All Black"]
+        },
+        {
+            "imgmerk": "https://www.accudeal.nl/wp-content/uploads/Jeep_logo.png",
+            "name": "Wrangler ",
+            "merk": "Jeep",
+            "price": 80000.99,
+            "pks": 175,
+            "verbruik": 7.8,
+            "image": "https://topgear.nl/thumbs/hd/2019/12/jeep-wrangler.jpg",
+            "Uitvoering": ["safari", "city"]
+        }
+    ]
+    ,
+    "RoadCars":
+    [
+        {
+            "imgmerk": "https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg",
+            "name": "750 ",
+            "merk": "BMW",
+            "price": 92600.50,
+            "koffervolume": 515,
+            "image": "https://autotijd.be/images/bmw/2019/7-reeks/nieuw/bmw-7-reeks-2019-nieuw-01.jpg",
+            "Uitvoering": ["business","klassiek", "Standaard", "extra lang"]
+        },
+        {
+            "imgmerk": "https://static.autoblog.nl/images/wp2009/audi_logo_oud.jpg",
+            "name": "RS6 ",
+            "merk": "AUDI",
+            "price": 185000,
+            "koffervolume": 565,
+            "image": "https://www.hartvoorautos.nl/wp-content/uploads/2019/12/2020-Audi-RS6-Avant-C8-1-scaled.jpg",
+            "Uitvoering": ["RS6","6", "QUATRO SPORT"]
+        },
+        {
+            "imgmerk": "https://i.etsystatic.com/16581340/r/il/5cf556/1375940968/il_570xN.1375940968_jpv9.jpg",
+            "name": "sl400 ",
+            "merk": "Mercedes",
+            "price": 120000,
+            "koffervolume": 470,
+            "image": "https://media.autoweek.nl/m/x4ry90gbn549_480.jpg",
+            "Uitvoering": ["busnisess","classic", "AMG"]
+        }
+    ]
+}
