@@ -24,28 +24,28 @@ function Initialise() {
 }
 
 // Globale functies
-// function startSituation() {
-//   //Fetch online
-//   fetch('https://howest-gp-wfa.github.io/st-2021-1-S2-a-wfa-pe03-TomSabbe/api/cars.json')
-//     .then(function (resp) { return resp.json(); })
-//     .then(function (arr) {
-//       dataSuper = arr.SuperCars;
-//       console.log(dataSuper);
-//       createCardsSuper(dataSuper);
+function startSituation() {
+  //Fetch online
+  fetch('https://howest-gp-wfa.github.io/st-2021-1-S2-a-wfa-pe03-TomSabbe/api/cars.json')
+    .then(function (resp) { return resp.json(); })
+    .then(function (arr) {
+      dataSuper = arr.SuperCars;
+      console.log(dataSuper);
+      createCardsSuper(dataSuper);
 
-//       dataOffRoad = arr.RoadCars;
-//       createCardsRoad(dataOffRoad);
+      dataOffRoad = arr.RoadCars;
+      createCardsRoad(dataOffRoad);
 
-//       dataOffRoad = arr.OffRoadCars;
-//       createCardsOffRoad(dataOffRoad);
+      dataOffRoad = arr.OffRoadCars;
+      createCardsOffRoad(dataOffRoad);
 
-//     });
+    });
 
-//   /*
-//   let vroom = JSON.parse(carsinfo);
-//   createCardsRoad(vroom);
-//   */
-// }
+  /*
+  let vroom = JSON.parse(carsinfo);
+  createCardsRoad(vroom);
+  */
+}
 
 
 function createCardsRoad(arr) {
